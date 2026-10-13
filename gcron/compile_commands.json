@@ -1,0 +1,83 @@
+[
+  {
+    "arguments": [
+      "g++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-fPIC",
+      "-I/usr/include/qt6/QtWidgets",
+      "-I/usr/include/qt6",
+      "-DQT_WIDGETS_LIB",
+      "-I/usr/include/qt6/QtWebView",
+      "-DQT_WEBVIEW_LIB",
+      "-I/usr/include/qt6/QtGui",
+      "-DQT_GUI_LIB",
+      "-I/usr/include/qt6/QtNetwork",
+      "-DQT_NETWORK_LIB",
+      "-I/usr/include/qt6/QtCore",
+      "-DQT_CORE_LIB",
+      "-I/usr/lib/qt6/mkspecs/linux-g++",
+      "-c",
+      "src/main.cpp",
+      "-o",
+      "src/main.o"
+    ],
+    "directory": "/home/anemonas/Projects/new_project",
+    "file": "/home/anemonas/Projects/new_project/src/main.cpp"
+  },
+  {
+    "arguments": [
+      "g++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-fPIC",
+      "-I/usr/include/qt6/QtWidgets",
+      "-I/usr/include/qt6",
+      "-DQT_WIDGETS_LIB",
+      "-I/usr/include/qt6/QtWebView",
+      "-DQT_WEBVIEW_LIB",
+      "-I/usr/include/qt6/QtGui",
+      "-DQT_GUI_LIB",
+      "-I/usr/include/qt6/QtNetwork",
+      "-DQT_NETWORK_LIB",
+      "-I/usr/include/qt6/QtCore",
+      "-DQT_CORE_LIB",
+      "-I/usr/lib/qt6/mkspecs/linux-g++",
+      "-c",
+      "src/ccron.cpp",
+      "-o",
+      "src/ccron.o"
+    ],
+    "directory": "/home/anemonas/Projects/new_project",
+    "file": "/home/anemonas/Projects/new_project/src/ccron.cpp"
+  },
+  {
+    "arguments": [
+      "g++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-fPIC",
+      "-I/usr/include/qt6/QtWidgets",
+      "-I/usr/include/qt6",
+      "-DQT_WIDGETS_LIB",
+      "-I/usr/include/qt6/QtWebView",
+      "-DQT_WEBVIEW_LIB",
+      "-I/usr/include/qt6/QtGui",
+      "-DQT_GUI_LIB",
+      "-I/usr/include/qt6/QtNetwork",
+      "-DQT_NETWORK_LIB",
+      "-I/usr/include/qt6/QtCore",
+      "-DQT_CORE_LIB",
+      "-I/usr/lib/qt6/mkspecs/linux-g++",
+      "-c",
+      "src/localserver.cpp",
+      "-o",
+      "src/localserver.o"
+    ],
+    "directory": "/home/anemonas/Projects/new_project",
+    "file": "/home/anemonas/Projects/new_project/src/localserver.cpp"
+  }
+]
